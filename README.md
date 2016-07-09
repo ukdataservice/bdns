@@ -1,2 +1,2 @@
-# bdns
-Big Data Network Support
+## BDNS
+Test repo for BDNS. 
